@@ -1,2 +1,2 @@
 # Heat-control
-This project is a  interface for houses
+This project is an interface to control heat in your house
